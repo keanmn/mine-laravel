@@ -1,0 +1,14 @@
+--Prérequis--
+
+wampserveur
+
+
+--Instalation--
+
+Télécharger de git
+
+Configurer les fichier
+
+Démarée wampserveur
+
+Ouvrire un navigateur web et connectez vous a http://localhost:8000/
